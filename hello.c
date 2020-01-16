@@ -7,5 +7,7 @@ Date: 2020/01/14
 int main(void) {
   printf("Caleb Bowman\n");
   printf("Major: Accounting");
+  printf("Griffin Brow\n");
+  printf("Major: Computer Science\n");
   return 0;
 }
